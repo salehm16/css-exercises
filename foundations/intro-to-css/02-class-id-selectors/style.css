@@ -1,0 +1,20 @@
+.odd-text {
+    color:black;
+    background-color: lightcoral;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif'
+}
+
+#secondo {
+    color: blue;
+    font-size: 36px;
+}
+
+.thirdo {
+    font-size: 24px;
+}
+
+#fourtho {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
